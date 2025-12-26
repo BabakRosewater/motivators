@@ -1,0 +1,48 @@
+model,model_year,trim,motivator_number,channel,adjective,boost,feature_anchor,notes
+elantra,2026,limited,1,any,premium,4,cabin materials,Aligns with motivator_adjectives.csv
+elantra,2026,sel_sport,5,any,exciting,3,design cues,Approved reward adjective
+elantra,2026,se,3,any,sensible,4,ROI/resale,Matches Prudence word list
+elantra_hybrid,2026,limited,1,any,refined,4,premium ride,Matches customer_adjectives list
+elantra_hybrid,2026,blue,3,any,efficient,5,fuel savings,Approved smart choice adjective
+ioniq_5_2wd,2026,limited,1,any,statement-making,5,design identity,High-impact success word
+ioniq_5_2wd,2026,se,3,email,data-backed,4,range/specs,Matches research-mindset list
+ioniq_5_awd,2026,xrt,5,any,bold,5,rugged design,Approved reward adjective
+ioniq_5_awd,2026,any,4,any,secure,5,awd confidence,Approved security word
+ioniq_9_2wd,2026,any,1,any,flagship,5,presence/scale,Matches status word list
+ioniq_9_2wd,2026,any,6,any,welcoming,4,cabin space,Approved connection word
+ioniq_9_awd,2026,calligraphy,1,any,prestige,5,signature design,Matches internal Success word list
+ioniq_9_awd,2026,any,4,any,road-ready,4,safety assists,Approved security word
+kona_2wd,2026,limited,1,any,high-impact,4,styling/wheels,Approved status word
+kona_2wd,2026,sel_sport,5,any,refreshing,4,vibrant design,Approved reward adjective
+kona_awd,2026,any,4,any,sure-footed,4,all-weather,Approved safety word
+kona_awd,2026,sel_premium,3,any,practical,5,cargo utility,Matches practical value list
+palisade_2wd,2026,calligraphy,1,any,refined,5,materials/finish,Matches refined status list
+palisade_2wd,2026,sel_premium,6,any,together,4,seating versatility,Approved connection word
+palisade_awd,2026,calligraphy,1,email,well-appointed,4,interior comfort,Approved status word
+palisade_awd,2026,xrt_pro,5,any,bold,4,rugged styling,Approved reward adjective
+palisade_awd,2026,any,4,any,family-safe,5,safety tech,Approved security word
+palisade_hybrid,2026,limited,1,any,elevated,4,hybrid tech,Matches upgraded status list
+palisade_hybrid,2026,sel,3,any,smart,5,long-term value,Primary smart choice word
+santa_cruz_2wd,2026,sel_activity,5,any,versatile,5,lifestyle bed,Matches reward/utility list
+santa_cruz_2wd,2026,se,3,any,practical,4,right-sized,Approved smart word
+santa_cruz_awd,2026,limited,1,any,standout,4,curb appeal,Approved success word
+santa_cruz_awd,2026,xrt,5,any,exciting,5,rugged capability,Matches reward list
+santa_fe_2wd,2026,calligraphy,1,any,elevated,5,redesign,Approved success word
+santa_fe_2wd,2026,limited,5,any,upgraded,4,premium tech,Approved reward word
+santa_fe_awd,2026,xrt,5,any,bold,5,rugged cues,Matches reward list
+santa_fe_awd,2026,any,4,any,trustworthy,4,awd stability,Approved security word
+santa_fe_hybrid,2026,limited,3,any,proven,4,hybrid reliability,Approved smart word
+sonata,2026,n_line,5,any,high-impact,5,acceleration,Approved reward word
+sonata,2026,limited,1,any,polished,4,coupe design,Approved status word
+sonata_hybrid,2026,sel,3,any,value-focused,5,cost-to-own,Approved smart word
+tucson_2wd,2026,limited,1,any,standout,4,tech features,Matches status word list
+tucson_2wd,2026,sel_premium,2,any,straightforward,4,buying process,Approved autonomy word
+tucson_awd,2026,xrt,5,any,bold,4,stance,Approved reward word
+tucson_awd,2026,any,4,any,dependable,5,all-weather,Approved security word
+tucson_hybrid,2026,blue_se,3,any,efficient,5,mpg story,Approved smart word
+tucson_phev,2026,sel,2,any,flexible,5,drive modes,Approved autonomy word
+venue,2026,sel,3,any,smart,5,urban mobility,Approved smart word
+venue,2026,any,2,any,convenient,5,easy parking,Approved autonomy word
+any,any,any,1,any,standout,3,styling,Generic status fallback
+any,any,any,2,any,on-your-terms,3,process,Generic autonomy fallback
+any,any,any,4,any,worry-free,4,warranty,Generic security fallback
