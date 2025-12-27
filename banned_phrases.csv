@@ -1,0 +1,40 @@
+term,replacement,level,context,notes,last_reviewed
+motivator,customer priorities,block,both,"Internal framework word; don’t say it to guests.",2025-12-26
+self-validation,feeling confident in the choice,block,both,"Internal motivator label; translate into customer-friendly meaning.",2025-12-26
+autonomy,on your terms,block,both,"Internal motivator label; use customer language.",2025-12-26
+prudence,smart choice,block,both,"Internal motivator label; use customer language.",2025-12-26
+security,peace of mind,block,both,"Internal motivator label; use customer language.",2025-12-26
+reward,you’ve earned something nice,block,both,"Internal motivator label; use customer language.",2025-12-26
+connection,fit for your people,block,both,"Internal motivator label; use customer language.",2025-12-26
+primary motivator,top priority,block,both,"Avoid framework jargon; keep it natural.",2025-12-26
+motivational profile,what matters most to you,block,both,"Avoid profiling language; keep it simple and respectful.",2025-12-26
+buying behavior signals,what you’re looking for,block,both,"Internal term; rephrase.",2025-12-26
+sales cue question,quick question,block,sales,"Internal training term; rephrase naturally.",2025-12-26
+service cue question,quick question,block,service,"Internal training term; rephrase naturally.",2025-12-26
+on-lot handle prompt,here’s a quick way to look at it,block,sales,"Internal training term; rephrase.",2025-12-26
+coach prompt,team note,block,both,"Never expose coaching language to customers.",2025-12-26
+script,quick outline,block,both,"Avoid saying “script” to customers.",2025-12-26
+objection handling,questions you might have,block,both,"Avoid adversarial framing.",2025-12-26
+close,wrap things up,block,both,"‘Close’ can feel salesy/pressuring.",2025-12-26
+close the deal,wrap up the details,block,sales,"Replace ‘deal-close’ language with calm next steps.",2025-12-26
+deal,purchase,block,sales,"“Deal” can sound transactional; use ‘purchase’ or ‘options’.",2025-12-26
+great deal,great value,block,sales,"Shift from ‘deal’ to ‘value’.",2025-12-26
+steal of a deal,excellent value,block,sales,"Avoid hypey language.",2025-12-26
+sign today,if it’s a good fit we can finalize today,block,sales,"Avoid pressure; offer option.",2025-12-26
+what will it take to earn your business,what would make this the right fit for you,block,sales,"Old-school close; replace with fit-focused question.",2025-12-26
+I can get you approved,I can help you explore approval options,block,sales,"Avoid certainty; approvals depend on lenders.",2025-12-26
+guaranteed approval,we’ll help you explore lending options,block,sales,"Compliance risk: never guarantee approval.",2025-12-26
+everyone gets approved,we’ll look at options that fit your situation,block,sales,"Compliance risk; avoid absolute claims.",2025-12-26
+no credit check,we’ll run a quick review with your permission,block,sales,"Avoid misleading financing claims.",2025-12-26
+lowest payment guaranteed,we’ll work to find a payment that fits,block,sales,"Avoid guarantees; refocus on fit.",2025-12-26
+only $ per month,monthly payment depends on term,rate,down payment,block,sales,"Avoid anchoring without context.",2025-12-26
+just sign here,when you’re ready we’ll review everything together,block,sales,"Avoid casual signing language.",2025-12-26
+it’s company policy,here’s how we handle it and why it helps,block,both,"Policy can feel rigid; explain benefit.",2025-12-26
+that’s not covered,let’s review what’s covered and what options you have,block,service,"Avoid abrupt denial; give next steps.",2025-12-26
+you have to,you can / the next step is,block,both,"Remove commanding tone.",2025-12-26
+calm down,I hear you—let’s take this one step at a time,block,both,"Avoid escalating phrasing.",2025-12-26
+that’s not my job,let me get the right person to help,block,both,"Never dismiss; route help.",2025-12-26
+I don’t know,let me confirm and get you a clear answer,block,both,"Replace uncertainty with ownership.",2025-12-26
+trust me,here are the facts / here’s what we can verify,block,both,"Avoid ‘trust me’; use evidence.",2025-12-26
+to be honest,here’s the situation,block,both,"‘To be honest’ can imply prior dishonesty.",2025-12-26
+obviously,just to clarify,block,both
