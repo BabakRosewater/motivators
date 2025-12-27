@@ -1,0 +1,67 @@
+term,replacement,level,context,notes,last_reviewed
+guaranteed,reliable,block,both,"Avoid promises/absolutes (compliance + trust).",2025-12-26
+certain,likely,block,both,"Avoid certainty language; keep it factual.",2025-12-26
+definitely,very likely,block,both,"Avoid absolute certainty.",2025-12-26
+always,consistently,block,both,"Avoid absolutes; use evidence-based language.",2025-12-26
+never,rarely,block,both,"Avoid absolutes; use measured language.",2025-12-26
+perfect,excellent,block,both,"‘Perfect’ overpromises; use grounded praise.",2025-12-26
+flawless,high-quality,block,both,"Overpromises; can backfire if any issue appears.",2025-12-26
+best,top-choice,block,both,"‘Best’ is an absolute claim; use comparative/fit language.",2025-12-26
+#1,top-rated,block,both,"Ranking claims can require substantiation.",2025-12-26
+unbeatable,highly-competitive,block,both,"Avoid absolute superiority claims.",2025-12-26
+ultimate,top-tier,block,both,"Often reads as hypey/absolute.",2025-12-26
+insane,impressive,block,both,"Avoid slang/hype; keep professional.",2025-12-26
+crazy,impressive,block,both,"Avoid slang; can feel unprofessional.",2025-12-26
+sick,impressive,block,both,"Avoid slang.",2025-12-26
+epic,standout,block,both,"Avoid hype words; keep credible.",2025-12-26
+legendary,standout,block,both,"Avoid exaggeration.",2025-12-26
+iconic,signature,block,both,"Often inflated; use grounded descriptors.",2025-12-26
+mind-blowing,impressive,block,both,"Too hypey for most guest communication.",2025-12-26
+jaw-dropping,impressive,block,both,"Too hypey.",2025-12-26
+game-changing,meaningful,block,both,"Often vague/hype; prefer specific benefits.",2025-12-26
+revolutionary,modern,block,both,"Overclaim; prefer specific facts.",2025-12-26
+life-changing,meaningful,block,both,"Overclaim; keep it realistic.",2025-12-26
+must-have,great-fit,block,both,"Pressure language; shift to fit-focused.",2025-12-26
+no-brainer,smart,block,both,"Can feel manipulative/condescending.",2025-12-26
+obvious,clear,block,both,"‘Obvious’ can feel condescending.",2025-12-26
+obviously,clearly,block,both,"Can feel condescending.",2025-12-26
+cheap,affordable,block,both,"‘Cheap’ can insult the product/guest; use ‘affordable’.",2025-12-26
+cheapest,affordable,block,both,"Avoid price-superlative claims.",2025-12-26
+rock-bottom,competitive,block,both,"Avoid extreme pricing language.",2025-12-26
+lowest,competitive,block,both,"Avoid ‘lowest’ claims unless substantiated.",2025-12-26
+low-cost,affordable,block,both,"Prefer guest-friendly phrasing.",2025-12-26
+free,included,block,both,"‘Free’ can be misleading; use ‘included’ with details.",2025-12-26
+zero-cost,included,block,both,"‘Zero-cost’ can be misleading; use ‘included’ with details.",2025-12-26
+risk-free,low-risk,block,both,"Avoid absolute; clarify terms.",2025-12-26
+bulletproof,durable,block,both,"Absolute durability claim.",2025-12-26
+failproof,reliable,block,both,"Absolute claim.",2025-12-26
+foolproof,straightforward,block,both,"Can feel insulting; avoid.",2025-12-26
+instant,quick,block,both,"Avoid implying guaranteed speed/approval.",2025-12-26
+automatic,streamlined,block,both,"Avoid implying guaranteed outcomes.",2025-12-26
+approved,eligible,block,sales,"Avoid implying approval is guaranteed.",2025-12-26
+pre-approved,pre-qualified,block,sales,"Use correct compliance language when applicable.",2025-12-26
+guarantee,confidence,block,both,"Avoid guarantee framing; use facts/verification.",2025-12-26
+unlimited,flexible,block,both,"Often inaccurate; use precise terms.",2025-12-26
+forever,long-lasting,block,both,"Avoid absolutes.",2025-12-26
+permanent,long-term,block,both,"Avoid absolutes.",2025-12-26
+everyone,most,block,both,"Avoid sweeping generalizations.",2025-12-26
+anyone,many,block,both,"Avoid sweeping generalizations.",2025-12-26
+all,every,block,both,"Avoid absolutes.",2025-12-26
+perfectly,very well,block,both,"Avoid perfection claims.",2025-12-26
+best-ever,excellent,block,both,"Absolute/superlative claim.",2025-12-26
+once-in-a-lifetime,limited-availability,block,sales,"Avoid pressure/hype phrasing.",2025-12-26
+today-only,limited-time,block,sales,"Avoid pressure language; state dates calmly if real.",2025-12-26
+last-chance,limited-time,block,sales,"Avoid pressure; use factual timelines.",2025-12-26
+hurry,when-you’re-ready,block,sales,"Avoid urgency/pressure wording.",2025-12-26
+urgent,important,block,both,"Often reads as pressure; use only when truly needed.",2025-12-26
+desperate,motivated,block,sales,"Negative/pressure framing.",2025-12-26
+killer,excellent,block,both,"Slang; can feel aggressive.",2025-12-26
+badass,confident,block,both,"Slang/unprofessional.",2025-12-26
+sexy,stylish,block,both,"Can be inappropriate; use ‘stylish’/‘sleek’.",2025-12-26
+hot,popular,block,both,"Slang; use clearer descriptors.",2025-12-26
+smokin,sharp,block,both,"Slang; avoid.",2025-12-26
+lame,not-ideal,block,both,"Insulting language.",2025-12-26
+stupid,not-ideal,block,both,"Insulting language.",2025-12-26
+dumb,not-ideal,block,both,"Insulting language.",2025-12-26
+craziest,impressive,block,both,"Hype/superlative.",2025-12-26
+wild,impressive,block,both,"Often too slangy.",2025-12-26
